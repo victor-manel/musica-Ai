@@ -1,0 +1,7 @@
+{
+  "name": "ChordGenius AI",
+  "description": "An advanced AI-powered application that analyzes audio files to automatically generate musical chords (cifras), key detection, and song structure using Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
